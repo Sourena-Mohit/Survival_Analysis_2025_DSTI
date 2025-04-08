@@ -70,8 +70,8 @@ This project analyzes the Colon Cancer dataset from the `survival` package in R 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/colon-survival-analysis.git
-   cd colon-survival-analysis
+   git clone https://github.com/Sourena-Mohit/Survival_Analysis_2025_DSTI.git
+   cd Survival_Analysis_2025_DSTI
    ```
 
 2. **Open the R Markdown Files:**
@@ -81,11 +81,6 @@ This project analyzes the Colon Cancer dataset from the `survival` package in R 
 3. **Review the Outputs:**
    - The rendered model output PDFs (located in the `[Model outputs]` folder) provide comprehensive details of the analysis, including plots and tables.
 
----
-
-## Contributing
-
-Contributions and suggestions are welcome! Please feel free to open issues or submit pull requests to help improve this project.
 
 ---
 
